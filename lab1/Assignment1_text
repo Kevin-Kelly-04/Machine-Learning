@@ -1,0 +1,38 @@
+Assignment 1 :
+	1.0
+	0.957117428265
+	0.999806132805
+
+Assingment 2 :
+	Entropy is the measure of uncertainty in a variable.  A uniform distribution of n outcomes will have the highest uncertainty where as a more non uniform distribution will have lower entropy.
+
+	A bag of colored balls with two colors.
+	Uniform distribution {0.5, 0.5} = 1.0 entropy
+	Non-uniform distribution {0.7,0.3} = 0.88 entropy
+
+Assignment 3 :
+0.075273 
+0.005838
+0.004708
+0.026312
+0.287031
+0.000758
+
+0.003756
+0.002458
+0.001056
+0.015664
+0.017277
+0.006248
+
+0.007121
+0.293736
+0.000831
+0.002892
+0.255912
+0.007077
+
+assignment 4 :
+Entropy for the subset SK  that maximizes information gain will be the lowest entropy of all the subsets
+
+Using information gain as a heuristic allows us to partition the data in a away which indicates the biggest reduction of uncertainty 
